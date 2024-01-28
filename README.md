@@ -134,4 +134,4 @@ Represents the data used to send token.
 
 ## License
 
-Driver License Service is [GPL licensed](LICENSE).
+Admin Service is [GPL licensed](LICENSE).
