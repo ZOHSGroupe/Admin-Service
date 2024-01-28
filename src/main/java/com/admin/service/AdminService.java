@@ -18,7 +18,7 @@ import java.util.Optional;
 
 @Service
 public class AdminService {
-    @Value("${jwt.secret-key}")
+    @Value("${jwt.secretkey}")
     private String SECRET_KEY;
     @Autowired
     private AdminRepository adminRepository;
